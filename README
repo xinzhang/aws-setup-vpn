@@ -1,0 +1,4 @@
+Create a VPN server quickly without any configuration
+
+右击start，选择powershell运行： 安装创建ss服务并配置ss客户端
+右击stop，选择powershell运行： 退出删除ss服务

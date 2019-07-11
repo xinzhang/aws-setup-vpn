@@ -1,0 +1,10 @@
+vpn/keys.tf
+vpn/*.tfstate*
+vpn/terraform*
+vpn/*.pem
+vpn/.terraform/*
+vpn/ss_win_temp/*
+vpn/*.json
+vpn/*.tmp
+vpn/Shadowsocks*
+vpn/*.sh
